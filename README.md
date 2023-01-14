@@ -33,7 +33,7 @@ My original plan was to train my model using a machine provided by my university
 ![results2](https://user-images.githubusercontent.com/57813196/212475798-b82739c2-a1cb-4bd2-a7ef-7131548ac0d7.PNG)
 ![results3](https://user-images.githubusercontent.com/57813196/212475801-6731d898-b179-4db6-b736-347595473a1b.PNG)
 
-bonse images, results where the database bias is showing:
+Bonse results:
 
 
 ![12121](https://user-images.githubusercontent.com/57813196/212476722-0296c514-072c-4739-996c-059df6bfb419.jpg)
