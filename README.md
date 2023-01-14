@@ -12,6 +12,7 @@ All images were input into a Face Detection model. However, images that did not 
 -grayscale images ware removed.
 -corrupted images with shape of 1x1
 Some Deleted images:
+
 ![xa](https://user-images.githubusercontent.com/57813196/212475127-a4a25cb3-06e4-4080-977a-34ecbf8efe9c.PNG)
 
 Data preprocessing and 
@@ -21,5 +22,6 @@ Data preprocessing and
 Classes:
 1. young images: people under 23.
 2. Older images: for people over 65
+
 ![young](https://user-images.githubusercontent.com/57813196/212475255-cd489767-daab-4b18-9a2b-0321a9a50094.png)
 ![old](https://user-images.githubusercontent.com/57813196/212475257-a7ca7283-4ba1-494c-a550-f8f5a1b16319.png)
