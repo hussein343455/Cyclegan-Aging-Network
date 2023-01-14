@@ -26,13 +26,23 @@ Some Deleted images:
 ![young](https://user-images.githubusercontent.com/57813196/212475255-cd489767-daab-4b18-9a2b-0321a9a50094.png)
 ![old](https://user-images.githubusercontent.com/57813196/212475257-a7ca7283-4ba1-494c-a550-f8f5a1b16319.png)
 
-My original plan was to train my model using a machine provided by my university. Unfortunately, the university failed to do so. As a result, I resized the images/database to 64x64 images and reduced the size of the database to 6,000 images. I trained my model using Google Colab, which took approximately two weeks. here is some of the results i got :
+My original plan was to train my model using a machine provided by my university. Unfortunately, the university failed to do so. As a result, I resized the images/database to 64x64 images and reduced the size of the database to 6,000 images. I trained my model using Google Colab, which took approximately two weeks. here is some of the results i got (input ---- output):
 
 ![results0](https://user-images.githubusercontent.com/57813196/212475794-bc9a9955-a535-4eff-b885-f1817335beeb.PNG)
 ![results1](https://user-images.githubusercontent.com/57813196/212475795-026b30a1-70e3-4fc1-9cdb-d7b241d674ac.PNG)
 ![results2](https://user-images.githubusercontent.com/57813196/212475798-b82739c2-a1cb-4bd2-a7ef-7131548ac0d7.PNG)
 ![results3](https://user-images.githubusercontent.com/57813196/212475801-6731d898-b179-4db6-b736-347595473a1b.PNG)
 
+bonse images, results where the database bias is showing:
 
+
+![12121](https://user-images.githubusercontent.com/57813196/212476722-0296c514-072c-4739-996c-059df6bfb419.jpg)
+
+
+![qdqqw](https://user-images.githubusercontent.com/57813196/212476728-8b52b845-b801-48af-9ca5-c55f631eb243.png)
+
+I attempted to remove all the grayscale images, but it appears that I was not successful. However, I found that the model tried to color the images in an interesting way:
+
+![xxx](https://user-images.githubusercontent.com/57813196/212476730-7ead4cd6-7af6-48b6-a177-049f8d8bf275.png)
 
 
